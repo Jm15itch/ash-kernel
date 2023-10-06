@@ -1,0 +1,6 @@
+[package]
+name = "ash-kernel"
+description = "A GPL Exokernel developed for performance and academia"
+version = "0.0.1"
+license = "GPL-3"
+edition = "2021"
